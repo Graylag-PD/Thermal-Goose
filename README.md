@@ -4,7 +4,7 @@ Thermal Goose is a collection of mechanical parts and control macro, that serve 
 The project is in **Early Alpha**, which means the basic components have been tested, but the final integration has not been done and significant parts are still missing. Expect anything and use at your own risk.  
 The Thermal Goose has been designed for Voron Trident, as that is the only printer I have acess to. It should be adaptable for a V2.4 or other printers, but no effort has been done in that direction.  
 
-##Components
+## Components
 The Thermal Goose has three main parts and addittional addons.
 ### Bed Fan
 Bed fans are in place to passively heat up your chamber. Design is minimalistic and is essentially just 6020 axial fans on simple mounting poins. You will need one or two 6020 fans, heatset inserts (go into fan frame), some screws and hammerhead nuts.  
